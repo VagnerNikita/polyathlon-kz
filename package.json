@@ -12,6 +12,8 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "aos": "^2.3.4",
+    "classnames": "^2.5.1",
+    "date-fns": "^4.1.0",
     "framer-motion": "^12.7.2",
     "i18next": "^24.2.3",
     "react": "^19.0.0",
