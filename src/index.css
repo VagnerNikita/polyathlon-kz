@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Можно дописать свои классы */
+body {
+  @apply bg-lightgray text-gray-800 font-sans;
+}
